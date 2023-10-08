@@ -1,0 +1,9 @@
+#rectangle_bg {
+    height: 600px;
+    width: 200px;
+    background-color: gray;
+    border-radius: 25px;
+    opacity: 0.9999;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+  }
